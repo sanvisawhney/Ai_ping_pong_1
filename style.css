@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    font-family: 'Zen Dots', cursive;
+    font-size: 40px;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+
+body{
+    font-family: 'Zen Dots', cursive;
+}
